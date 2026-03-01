@@ -1,27 +1,35 @@
-This repository contains small Python programs I solved to strengthen my fundamentals.
+# Python Practice
 
-Topics covered so far:
-String slicing (indexing and reversing)
+This repository contains Python programs I solved to strengthen my fundamentals. It’s organized by topic to help build a strong core before moving on to advanced concepts.
 
-Loops and conditions (filtering data)
+---
 
-Dictionaries (working with .values())
+## 🗂 Folder Structure
 
-Advanced Functions: Using *args and **kwargs for dynamic inputs
+- `basics/` – Exercises on lists, dictionaries, loops, and string operations  
+  - `budget_tracker.py` – Calculate total expenses and filter by amount  
+  - `string_slicing.py` – Practice reversing strings and slicing patterns  
+  - `password_validator.py` – Username and password validation  
 
-Basic input validation
+- `functions/` – Practice on functions, *args, **kwargs  
+  - `highest_even.py` – Find the largest even number in a list  
+  - `super_func.py` – Explore *args and **kwargs usage  
 
-Scripts
-📂 basics/
-password_validator.py – Checks if a password meets security criteria.
+---
 
-slicing.py – Practice with string manipulation and step indexing.
+## 📚 Topics Covered
 
-budget_tracker.py – Keeps track of expenses, showing totals and highest costs.
+- Lists, dictionaries, loops, and conditions  
+- String slicing and manipulation  
+- Input validation and user interaction  
+- Functions, positional arguments (`*args`) and keyword arguments (`**kwargs`)  
+- Using Git for version control  
 
-📂 functions&scope/
-super_func.py – Demonstrates handling variable positional and keyword arguments.
+---
 
-highest_even.py – Logic to find the maximum even number from a provided list.
+## 🎯 Goals
 
-Goal: Build strong core Python skills before moving to advanced topics.
+- Build strong fundamentals in Python  
+- Practice problem-solving systematically  
+- Strengthen memory and coding confidence through repetition  
+- Document progress on GitHub for consistency and portfolio  
