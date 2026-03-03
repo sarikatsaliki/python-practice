@@ -14,6 +14,9 @@ This repository contains Python programs I solved to strengthen my fundamentals.
 - `functions/` – Practice on functions, *args, **kwargs  
   - `highest_even.py` – Find the largest even number in a list  
   - `super_func.py` – Explore *args and **kwargs usage  
+  - `imp_func.py` - Practice map(), filter() and reduce functions
+  - `lambda_expressions.py` - squaring and list sorting using lambda function
+  - `list_comprehensions.py` - learning list comprehension 
 
 ---
 
